@@ -434,5 +434,11 @@ footer .details .detail h4 {
     font-size: 1.3rem;
   }
 }
+@media screen and (min-width: 1900px) {
+  .one .left h3 {
+    font-size: 3rem;
+    line-height: 3.5rem;
+  }
+}
 
 
